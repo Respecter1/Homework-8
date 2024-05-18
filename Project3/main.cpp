@@ -1,10 +1,10 @@
 /*
-	3. За допомогою вказівника присвойте змінній вашого значення 50.
+	3. Г‡Г  Г¤Г®ГЇГ®Г¬Г®ГЈГ®Гѕ ГўГЄГ Г§ВіГўГ­ГЁГЄГ  ГЇГ°ГЁГ±ГўГ®Г©ГІГҐ Г§Г¬ВіГ­Г­ВіГ© ГўГ ГёГ®ГЈГ® Г§Г­Г Г·ГҐГ­Г­Гї 50.
 */
 int main()
 {
 	unsigned short yourAge;
-	unsigned short* ptr_yourAge = &yourAge;
+	unsigned short* ptr_yourAge = &yourAge; 
 
 	*ptr_yourAge = 50;
 }
